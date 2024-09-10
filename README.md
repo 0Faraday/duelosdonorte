@@ -6,7 +6,7 @@ Se você gosta de viajar e gostaria de conhecer os festivais que acontecem na re
 
 Como ela funciona?
 
-    Digite e pesquise: Você digita o nome do festival, estdo ou referências que você quer encontrar na caixinha de pesquisa.
+    Digite e pesquise: Você digita o nome do festival folclórico, municío ou referência que você quer encontrar na caixinha de pesquisa.
     Mágica acontece: A aplicação vasculha um banco de dados (que está no arquivo dados.js) e procura por tudo que tenha a ver com o que você digitou.
     Resultados na tela: Se a aplicação encontrar algo, ela mostra pra você um card com o nome do festival, uma breve descrição e um link para saber mais. Se não encontrar nada, ela te avisa que não teve sorte dessa vez.
 
