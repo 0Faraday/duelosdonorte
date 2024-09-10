@@ -1,4 +1,4 @@
-Festivais do Norte - Imersão Dev com Google Gemini
+Festivais Folclóricos do Norte - Imersão Dev com Google Gemini
 
 O que essa aplicação faz?
 
